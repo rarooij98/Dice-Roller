@@ -2,4 +2,4 @@
 
 * Rendered a Dice component that shows a random number when rolled.
 * Animated the dices & disable the button when state is 'rolling'.
-* Added more dices to the page with a form.
+* Created a form to add more dices to the page.
